@@ -1,4 +1,4 @@
-package Modul1;
+
 import java.util.Scanner;
 import java.time.LocalDate;
 import java.time.Period;
